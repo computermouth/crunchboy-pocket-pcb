@@ -1,0 +1,51 @@
+[Eagle]
+Version="06 06 00"
+Platform="Linux"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/home/computermouth/.eagle/lbr/pinhead.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/LilyPad-Wearables.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Aesthetics.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Batteries.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Boards.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Capacitors.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Clocks.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Coils.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Connectors.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Displays.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Electromechanical.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Fuses.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-GPS.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Hardware.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-IC-Amplifiers.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-IC-Comms.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-IC-Conversion.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-IC-Logic.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-IC-Memory.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-IC-Power.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Jumpers.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-LED.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-PowerSymbols.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-RF.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Resistors.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Retired.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Sensors.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Switches.lbr"
+UsedLibrary="/home/computermouth/.eagle/lbr/SparkFun-Eagle-Libraries/User-Submitted.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="1133 887 2032 1473"
+State=2
+Number=0
+
+[Desktop]
+Screen="4280 1920"
+Window="Win_1"
